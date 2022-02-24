@@ -1,0 +1,396 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-transform: capitalize;
+}
+
+header{
+    background-color: rgb(235 231 231);
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    padding: 10px;
+    margin: 0 0.2%;
+}
+
+.header-title-1{
+    border-width: inherit;
+    border-color: inherit;
+    border-style: inherit;
+    color: rgb(9, 138, 224);
+    text-align: center;
+    padding: 10px 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.5vw;
+    border-radius: 10px;
+    word-spacing: 0px;
+}
+
+/* form */
+
+form{
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    background-color: rgb(239 238 238);
+    padding: 10px;
+    height: 1400px;
+    margin: 0 0.5%;
+}
+
+.form-title{
+    font-size: 3vw;
+    color: rgb(9, 138, 224);
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 30px;
+    text-align: center;
+    display: block;
+    margin: 0 35%;
+}
+
+.form-personal-information{
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    padding: 20px;
+}
+
+/* ////////////////////////////////////////// */
+
+/* The first set of elements */
+
+.div-input-label-first-line-1{
+    padding: 10px;
+    font-size: 20px;
+
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 5px;
+    margin: 2% 3%;
+}
+
+/* first field elements (1) */
+
+
+.input-one{
+    padding: 5px;
+    float: left;
+    font-size: 20px;
+    width: 15%;
+    margin-left: 15%;
+
+    color: rgb(9, 138, 224);
+    border-width: 2px ;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 4px;
+}
+.label-one{
+    float: left;
+    font-size: 2.5vw;
+    color: rgb(9, 138, 224);
+}
+
+/* second field elements (2) */
+
+.input-two{
+    padding: 5px;
+    float: left;
+    font-size: 20px;
+    width: 15%;
+    margin-left: 20%;
+
+    color: rgb(9, 138, 224);
+    border-width: 2px ;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 4px;
+}
+.label-two{    
+    
+    font-size: 2.5vw;
+    color: rgb(9, 138, 224);
+}
+
+/* ////////////////////////////////////////////////////////////// */
+
+/* second set of elements */
+
+
+.div-input-label-first-line-2{
+    padding: 10px;
+    font-size: 20px;
+
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 5px;
+    margin: 2% 3%;
+}
+
+/* field elements (3) */
+
+.input-three{
+    padding: 5px;
+    float: left;
+    font-size: 20px;
+    width: 15%;
+    margin-left: 15%;
+
+    
+
+    color: rgb(9, 138, 224);
+    border-width: 2px ;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 4px;
+}
+.label-three{
+    float: left;
+    font-size: 2.0vw;
+    color: rgb(9, 138, 224);
+}
+
+
+/* field elements (4) */
+
+.input-four{
+    padding: 5px;
+    float: left;
+    font-size: 20px;
+    width: 15%;
+    margin-left: 21.0%;
+    
+
+    color: rgb(9, 138, 224);
+    border-width: 2px ;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 4px;
+}
+.label-four{
+    font-size: 2.0vw;
+    color: rgb(9, 138, 224);
+}
+
+/* ////////////////////////////////////////////////////////////// */
+
+/* third set of elements */
+
+.div-input-label-first-line-3{
+    padding: 10px;
+    font-size: 20px;
+
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 5px;
+    margin: 2% 3%;
+}
+
+/* field elements (5) */
+
+.input-five{
+    padding: 5px;
+    float: left;
+    font-size: 20px;
+    width: 15%;
+    margin-left: 15%;
+
+    color: rgb(9, 138, 224);
+    border-width: 2px ;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 4px;
+}
+.label-five{
+    float: left;
+    font-size: 2.0vw;
+    color: rgb(9, 138, 224);
+}
+
+/* field elements (6) */
+
+.input-sex{
+    padding: 5px;
+    float: left;
+    font-size: 20px;
+    width: 25%;
+    margin-left: 8%;
+    color: rgb(9, 138, 224);
+    border-width: 2px ;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 4px;
+}
+.label-sex{
+    float: left;
+    font-size: 2.0vw;
+    color: rgb(9, 138, 224);
+}
+
+/* ////////////////////////////////////////////////////////////// */
+
+/* third set of elements */
+
+.div-input-label-first-line-4{
+    padding: 10px;
+    font-size: 20px;
+
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 5px;
+    margin: 2% 3%;
+}
+
+.input-label-seven{
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    margin: 0px 43%;
+    border-radius: 13px;
+}
+
+.input-label-eight{
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    margin: 0px 43%;
+    border-radius: 13px;
+}
+
+.male-or-female{
+    font-size: 3vw;
+    color: rgb(9, 138, 224);
+    margin-right: 75%;
+    text-decoration: underline;
+
+}
+
+/* field elements (7) */
+
+.label-seven{
+    /* float: left; */
+    font-size: 2.0vw;
+    color: rgb(9, 138, 224);
+}
+
+/* field elements (8) */
+
+.label-eight{
+    /* float: left; */
+    font-size: 2.0vw;
+    color: rgb(9, 138, 224);
+}
+
+
+
+.input-fuor{
+    padding: 5px;
+    float: left;
+    font-size: 20px;
+    width: 15%;
+    margin-left: 18%;
+    color: rgb(9, 138, 224);
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 4px;
+}
+
+
+
+.label-fuor{
+    float: left;
+    font-size: 2.0vw;
+    color: rgb(9, 138, 224);
+}
+
+
+
+
+
+
+.reset-form{
+    font-size: 3vw;
+    background-color: white;
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    direction: rtl;
+    border-radius: 4px;
+}
+
+.reset-form:hover{
+    background-color: rgb(235, 231, 231);
+    color: rgb(221, 2, 2);
+}
+
+.div-div-submit{
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    padding: 15px;
+}
+
+.div-submit{
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 27px;
+    padding: 15px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    margin: 0px 41%;
+}
+
+.submit{
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 5vw;
+    background-color: rgb(47, 135, 218);
+    color: white;
+    
+}
+
+.submit:hover{
+    background-color: rgb(25, 152, 236);
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+}
+
+.div-submit:hover{
+    border-width: 2px ;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.div-footer{
+    background-color: rgb(158, 158, 158);
+    color: white;
+    text-align: center;
+    font-size: 1.6vw;
+    margin: 0 0.5%;
+}
+
+.clear{
+    clear: both;
+}
+.all-red-star{
+    color: red;
+}
